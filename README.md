@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6366f1" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=6366f1" />
+  <img src="https://komarev.com/ghpvc/?username=Siddhievinayaka&style=flat-square&color=6366f1" />
+  <img src="https://img.shields.io/github/followers/Siddhievinayaka?style=flat-square&color=6366f1" />
 </p>
 
 ---
@@ -34,12 +34,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Siddhievinayaka&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhievinayaka&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhievinayaka&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -72,14 +72,14 @@ Scalable apps deployed on Render / AWS
 
 ## 🐍 GitHub Contribution Animation
 
-![snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Siddhievinayaka/Siddhievinayaka/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Siddhievinayaka">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://linkedin.com">
