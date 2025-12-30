@@ -1,97 +1,63 @@
-<!-- ================= HERO SECTION ================= -->
-
-<h1 align="center">👋 Hi, I'm COWHerd Boy</h1>
-
+<!-- HERO HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Cloud+Oriented+Applications;Building+Modern+SaaS+Products;Always+Learning&center=true&width=600&height=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siddhievinayaka&style=flat-square&color=6366f1" />
-  <img src="https://img.shields.io/github/followers/Siddhievinayaka?style=flat-square&color=6366f1" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Web+Developer;Cloud+Focused+Engineer;Startup+Builder;Open+Source+Contributor" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 💻 Full-stack web developer  
-- ☁️ Building **cloud-oriented web applications**
-- 🧠 Focused on **scalable SaaS products**
-- 🛠 From idea → design → deployment
-- 🌱 Currently improving system design & cloud infra
+## 👨‍💻 About Me
+- 🚀 Building **modern, cloud-oriented web apps**
+- 🎨 Focused on **clean UI + performance**
+- 🧠 Love startups, automation & scalable systems
 
 ---
 
-## 🛠 Tech Stack
+## 📊 GitHub Stats (Clean + Animated)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,aws,docker,git,github,tailwind&perline=7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddhievinayaka&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Siddhievinayaka&theme=transparent&hide_border=true&ring=8b5cf6&fire=6366f1&currStreakLabel=8b5cf6" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Most Used Languages
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Siddhievinayaka&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhievinayaka&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhievinayaka&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhievinayaka&layout=compact&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=c9d1d9" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 Radhirra Designs
-Full-stack eCommerce website with admin dashboard  
-**Tech:** React, Node.js, MongoDB, Tailwind, Cloud Hosting
-
-### 📊 Admin Dashboard
-Role-based order & user management system  
-**Tech:** React, Express, PostgreSQL
-
-### ☁️ Cloud-Oriented Web Apps
-Scalable apps deployed on Render / AWS  
-**Tech:** Docker, Cloud Services, CI/CD
-
----
-
-## 🧩 What I Do
-
-✔ Website development  
-✔ Web applications  
-✔ Admin dashboards  
-✔ Cloud deployment  
-✔ Maintenance & scaling  
-
----
-
-## 🐍 GitHub Contribution Animation
-
-![snake animation](https://github.com/Siddhievinayaka/Siddhievinayaka/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📫 Connect With Me
+## 📈 Contribution Graph (Animated)
 
 <p align="center">
-  <a href="https://github.com/Siddhievinayaka">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhievinayaka&bg_color=0d1117&color=8b5cf6&line=6366f1&point=ffffff&hide_border=true" />
 </p>
 
 ---
 
+## 🏆 GitHub Trophies (Looks Premium)
+
 <p align="center">
-  ⚡ Built with passion for clean UI, performance, and scalable systems.
+  <img src="https://github-profile-trophy.vercel.app/?username=Siddhievinayaka&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Siddhievinayaka&color=8b5cf6&style=flat-square" />
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=120&section=footer" />
 </p>
